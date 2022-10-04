@@ -1,4 +1,4 @@
-package chapter1;
+package string;
 
 public class Template {
     public void solution() {

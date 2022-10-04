@@ -1,4 +1,4 @@
-package chapter2;
+package array;
 
 import java.util.ArrayList;
 import java.util.Scanner;
