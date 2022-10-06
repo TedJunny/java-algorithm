@@ -1,5 +1,3 @@
-package string;
-
 public class Template {
     public void solution() {
 
