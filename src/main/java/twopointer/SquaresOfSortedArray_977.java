@@ -1,7 +1,5 @@
 package twopointer;
 
-import binarysearch.SearchInsertPosition_35;
-
 public class SquaresOfSortedArray_977 {
     public int[] sortedSquares(int[] nums) {
         int left = 0;
