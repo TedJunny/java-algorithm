@@ -1,5 +1,6 @@
+package slidingwindow;
+
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class LengthOfLongestSubstring_3 {
     public int lengthOfLongestSubstring(String s) {
